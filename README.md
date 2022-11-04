@@ -1,4 +1,4 @@
-# Web Scraping with Python Selenium
+# Web Scraping with Python Selenium: Tutorial for Beginners
 
 [<img src="https://img.shields.io/static/v1?label=&message=python&color=brightgreen" />](https://github.com/topics/python) [<img src="https://img.shields.io/static/v1?label=&message=selenium&color=blue" />](https://github.com/topics/selenium) [<img src="https://img.shields.io/static/v1?label=&message=Web%20Scraping&color=important" />](https://github.com/topics/web-scraping)
 - [Installing Selenium](#installing-selenium)
